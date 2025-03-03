@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="68b2453">
+        <description>Created after removal of "Introducción" from Servicios</description>
+        <accepts>servicios.html</accepts>
+    </rule>
+    <rule id="200f4aba">
+        <description>Created after removal of "Elaboración de Nuevos Productos" from Servicios</description>
+        <accepts>Desarrollo-de-Nuevos-Productos.html</accepts>
+    </rule>
+    <rule id="61cd5734">
+        <description>Created after removal of "Recepción de la muestra" from CADIA</description>
+        <accepts>etapas.html</accepts>
+    </rule>
+</rules>

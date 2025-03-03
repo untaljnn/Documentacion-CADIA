@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="cadia"
+                 name="CADIA"
+                  start-page="Main.md">
+
+    <toc-element topic="Main.md"/>
+    <toc-element topic="Servicios.md">
+        <toc-element topic="Análisis-Bromatológico.md"/>
+        <toc-element topic="Vida-de-Anaquel.md"/>
+        <toc-element topic="Análisis-Microbiológico.md"/>
+        <toc-element topic="Mejora-de-Procesos.md"/>
+        <toc-element topic="Desarrollo-de-Nuevos-Productos.md"/>
+        <toc-element topic="Elaboración-de-Manuales.md"/>
+        <toc-element topic="Trámites.md"/>
+    </toc-element>
+    <toc-element topic="Clientes.md"/>
+    <toc-element topic="Colaboradores.md"/>
+    <toc-element topic="Cursos.md"/>
+    <toc-element topic="Inventario.md"/>
+</instance-profile>
